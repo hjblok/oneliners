@@ -1,0 +1,11 @@
+h1. Introduction
+
+In this repository you'll find short and simple scripts for various purposes.
+
+h1. OS X
+
+Scripts within the folder @osx@.
+* @pem_export_keychain_certificates_to_openssl.rb@ - Ruby script to export all certificates in OS X SystemRoots Keychain to OpenSSL readible certificates.
+
+
+
